@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HW1_192_Ibragimov_Konstantin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HW1_192_Ibragimov_Konstantin_jar</output-path>
+    <root id="archive" name="HW1_192_Ibragimov_Konstantin.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/HW1_192_Ibragimov_Konstantin_jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Monopoly" />
+    </root>
+  </artifact>
+</component>
